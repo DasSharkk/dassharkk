@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shark340!
 - 👀 I’m interested in Java and Kotlin (Minecraft Programming).
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning Python 🐍.
 - 📫 How to reach me: shark340@gmx.de
 
 <!---
