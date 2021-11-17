@@ -7,4 +7,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shark340)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Connect with me:
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/twitter.svg">](https://twitter.com/shark340) [<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/discord.svg">](https://discordapp.com/users/896659872081403927)
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/twitter.svg">](https://twitter.com/shark340) [<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/discord.svg">](https://discordapp.com/users/896659872081403927) [<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/gmail.svg">](mailto:shark340@gmx.de) [<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/stackoverflow.svg">](https://stackoverflow.com/users/16686252/shark340)
