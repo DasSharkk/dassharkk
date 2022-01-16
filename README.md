@@ -28,6 +28,13 @@
 <details>
   <summary>:zap: GitHub Stats </summary>
 
+   [![wakatime](https://wakatime.com/badge/user/ba276e82-509c-4478-8555-21cbdc63b68f.svg)](https://wakatime.com/@ba276e82-509c-4478-8555-21cbdc63b68f)
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats </summary>
+
    ![Shark's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shark340&count_private=false&show_icons=true&theme=dracula)
 
 </details>
