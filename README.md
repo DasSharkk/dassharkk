@@ -26,7 +26,7 @@
 <br> <br>
 
 <details>
-  <summary>:zap: GitHub Stats </summary>
+  <summary>:zap: WakaTime Stats </summary>
 
    [![wakatime](https://wakatime.com/badge/user/ba276e82-509c-4478-8555-21cbdc63b68f.svg)](https://wakatime.com/@ba276e82-509c-4478-8555-21cbdc63b68f)
 
