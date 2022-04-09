@@ -35,14 +35,14 @@
 <details>
   <summary>:zap: GitHub Stats </summary>
 
-   ![Shark's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shark340&count_private=false&show_icons=true&theme=dracula)
+   ![Shark's GitHub stats](https://github-readme-stats.vercel.app/api?username=dassharkk&count_private=false&show_icons=true&theme=dracula)
 
 </details>
 
 <details>
   <summary>:zap: Top Languages </summary>
 
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shark340&count_private=false&show_icons=true&theme=dracula)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dassharkk&count_private=false&show_icons=true&theme=dracula)
 
 
 </details>
