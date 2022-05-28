@@ -1,5 +1,5 @@
 ## I'm a java/kotlin programmer, a frontend developer and a linux enthusiast!
-- 👋 Hi, I’m @shark340!
+- 👋 Hi, I’m @dassharkk!
 - 👀 I’m interested in Java and Kotlin (Minecraft Programming).
 - 😄 Pronouns: He/His
 - 🌱 I’m currently learning Python 🐍.
