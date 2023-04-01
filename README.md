@@ -1,52 +1,89 @@
-## I'm a java/kotlin programmer, a frontend developer and a linux enthusiast!
-- 👋 Hi, I’m @dassharkk!
-- 👀 I’m interested in Java and Kotlin (Minecraft Programming).
-- 😄 Pronouns: He/His
-- 🌱 I’m currently learning Python 🐍.
+<div align="center">
+  <a href="mailto:hello@dasshark.me" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=MAIL&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://linktr.ee/dasshark" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
+  </a>
+</div>
 
-<img align="right" src="https://github.com/shark340/shark340/blob/f1d4299b3142a3a146baaf0c83458d41ab43e769/assets/developer-gd5990ce2f_1920.png" alt="shark340" height="270" />
+###
 
-<br> <h3 align="left"> Connect with me: <img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="79px"> </h3>
-[<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/twitter.svg">](https://www.twitter.com/sharkwhocodes)     [<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/discord.svg">](https://www.discordapp.com/users/896659872081403927)     [<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/gmail.svg">](mailto:shark340@gmx.de)     [<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/stackoverflow.svg">](https://www.stackoverflow.com/users/16686252/dasshark)      [<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/devdotto.svg">](https://www.dev.to/dasshark)
+<h1 align="center">hey there 👋</h1>
 
-<br> <br> 
+###
 
-<h3 align="left"> Languages and Tools: <img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="49px"></h3>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<h3 align="left">👩‍💻  About Me</h3>
 
-<br> <br>
+###
 
-<details>
-  <summary>:zap: WakaTime Stats </summary>
+<p align="left">I'm DasShark from Germany.<br><br>- ✨ Creating bugs since 2020<br>- 📚 I'm currently learning ReactJS</p>
 
-   [![wakatime](https://wakatime.com/badge/user/ba276e82-509c-4478-8555-21cbdc63b68f.svg)](https://wakatime.com/@ba276e82-509c-4478-8555-21cbdc63b68f)
+###
 
-</details>
+<h3 align="left">🛠 Language and tools</h3>
 
-<details>
-  <summary>:zap: GitHub Stats </summary>
+###
 
-   ![Shark's GitHub stats](https://github-readme-stats.vercel.app/api?username=dassharkk&count_private=false&show_icons=true&theme=dracula)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" width="52" alt="kotlin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="52" alt="android logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" width="52" alt="debian logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="52" alt="gitlab logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="40" width="52" alt="gradle logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" width="52" alt="jetbrains logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+</div>
 
-</details>
+###
 
-<details>
-  <summary>:zap: Top Languages </summary>
+<h3 align="left">🤝 Get in touch</h3>
 
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dassharkk&count_private=false&show_icons=true&theme=dracula)
+###
 
+<div align="left">
+  <a href="https://www.discordapp.com/users/896659872081403927" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://dev.to/dasshark" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/16686252/dasshark" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://twitter.com/dassharkk" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://instagram.com/dassharkk" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://youtube.com/@dassharkk" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://twitch.tv/dassharkk" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
+  </a>
+</div>
 
-</details>
+###
 
-<br>
+<h3 align="left">🔥   My Stats :</h3>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=shark340.shark340)
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=dassharkk&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=dassharkk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="220" alt="stats graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shark340.shark340"  />
+</div>
+
+###
