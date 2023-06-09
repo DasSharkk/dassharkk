@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="mailto:hello@dasshark.me" target="_blank">
+  <a href="mailto:dassharkk+hello@proton.me" target="_blank">
     <img src="https://img.shields.io/static/v1?message=MAIL&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://linktr.ee/dasshark" target="_blank">
